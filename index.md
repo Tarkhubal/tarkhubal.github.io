@@ -4,8 +4,8 @@
   }
   
   body {
-    background: rgb(34,34,34);
-    background: radial-gradient(circle, rgba(34,34,34,1) 0%, rgba(85,85,85,1) 65%, rgba(0,0,0,1) 100%);
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
   }
 </style>
 <title>Un Thomas Sauvage</title>
