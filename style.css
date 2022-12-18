@@ -188,7 +188,8 @@ i {
 }
 
 .card-info>i,
-.card-info>img {
+.card-info>img,
+.card-info>svg {
     font-size: 1em;
     height: 20px;
     line-height: 20px;
